@@ -24,11 +24,11 @@ We use the information you provide to deliver personalized Pilates routines and 
 
 We prioritize the security of your data. Measures we take include:
 
-Encryption of all uploaded photos during transmission and storage
+- Encryption of all uploaded photos during transmission and storage
 
-Secure servers with restricted access
+- Secure servers with restricted access
 
-Regular security audits and updates
+- Regular security audits and updates
 
 ## 4. Your Control Over Your Information
 
